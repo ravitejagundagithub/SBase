@@ -11,4 +11,4 @@
 	// TODO add you code here
 %>
 
-Title mine MVN BUild
+Title mine MVN BUild git check out and check in
