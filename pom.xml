@@ -14,7 +14,7 @@
     <description>Maven Multimodule project for My Project.</description>
 
     <prerequisites>
-        <maven>3.0.2</maven>
+        <maven>3.6.2</maven>
     </prerequisites>
 
     <!-- ====================================================================== -->
